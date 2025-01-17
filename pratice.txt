@@ -1,0 +1,1 @@
+it was created using for loop and conditional statements and variables and input and output commands for practice  
